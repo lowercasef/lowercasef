@@ -1,12 +1,18 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/xuXc3kD8AeVaw/giphy-downsized.gif" width="600" height="300"/>
 </div>
 
-# Hi I'm Charles Hallstrom.
-# I'm interested in various things.
-# I'm currently learning alot.
-# I'm not looking to collaborate on anything.
-# You can reach me online.
 
-hydra dominatus!
+About Me:
+
+Hi I'm Charles Hallstrom.
+I'm interested in various things.
+I'm currently learning alot.
+You can reach me online.
+
+
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white"/>
+</div>
+
