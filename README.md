@@ -5,10 +5,10 @@
 
 About Me:
 
-Hi I'm Charles Hallstrom.
-I'm interested in various things.
-I'm currently learning alot.
-You can reach me online.
+# Hi I'm Charles.
+# I'm interested in various things.
+# I'm currently learning alot.
+# You can reach me online.
 
 
 
