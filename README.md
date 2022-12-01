@@ -1,3 +1,6 @@
+
+img https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif
+
 # Hi I'm Charles Hallstrom.
 # I'm interested in various things.
 # I'm currently learning alot.
